@@ -1,0 +1,39 @@
+/*this is the style of the body*/
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.welcome {
+    background-image: url('../images/main-banner.jpg');
+    background-size: cover;
+    background-position: center;
+aspect-ratio: 16/9;
+}
+.shadow {
+    background-color: rgba(0, 0, 0, 0.5);
+ 
+    
+    
+ 
+}
+.welcome h1 {
+    color: white;
+
+    padding: 20px;
+    font-size: 3em;
+}
+.welcome p {
+    color: white;
+padding: 20px;
+    
+}
+.welcome .button {
+    background-color: #c18d0e;
+
+    padding: 24px;
+    text-decoration: none;
+    
+    margin: 20px;
+    display: inline-block;
+}
